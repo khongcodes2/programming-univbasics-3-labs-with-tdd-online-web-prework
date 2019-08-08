@@ -1,2 +1,3 @@
 # Add your variables here
-first_number="Hi"
+first_number=1
+
